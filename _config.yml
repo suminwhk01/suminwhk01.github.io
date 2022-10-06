@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "plum"
 
 # Site Settings
 locale                   : "ko-KR"
-title                    : "내 남편 천수민"
+title                    : "최수민"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "수민부부"
-description              : "An amazing website."
+name                     : "최수민"
+description              : "최수민"
 url                      : "https://suminwhk01.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "suminwhk01/suminwhk01.github.io"
@@ -104,15 +104,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "수민부부"
+  name             : "최수민"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "수민부부의 블로그임니당"
-  location         : "Republic of Korea"
+  bio              : "최수민"
+  location         : "최수민"
   email            :
   links:
-    - label: "Email"
+    - label: "최수민"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:su5994@naver.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -122,9 +122,9 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
+    - label: ""
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/suminwhk01"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
